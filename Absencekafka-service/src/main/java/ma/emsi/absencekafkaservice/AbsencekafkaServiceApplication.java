@@ -8,6 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
 import java.util.Date;
+import java.util.Random;
 
 @SpringBootApplication
 public class AbsencekafkaServiceApplication {
@@ -29,7 +30,7 @@ public class AbsencekafkaServiceApplication {
     CommandLineRunner commandLineRunner() {
         return args -> {
             for (int i = 0; i < 5; i++) {
-                Absence absence =  new Absence(null,  new Date(), 1L,1L,1L,null,null,null);
+                Absence absence =  new Absence(new Random().nextLong(30),  new Date(), Math.random()>0.5?1L:2L,Math.random()>0.5?1L:2L,Math.random()>0.5?1L:2L,null,null,null);
                 System.out.println(absence);
                 absenceProducer.sendMessage(absence);
             }

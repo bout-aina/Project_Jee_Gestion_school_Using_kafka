@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Absencekafka-service/Absencekafka-service.iml" filepath="$PROJECT_DIR$/Absencekafka-service/Absencekafka-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Data-Analytics-Service/Data-Analytics-Service.iml" filepath="$PROJECT_DIR$/Data-Analytics-Service/Data-Analytics-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataAnalytics_service/DataAnalytics_service.iml" filepath="$PROJECT_DIR$/DataAnalytics_service/DataAnalytics_service.iml" />
       <module fileurl="file://$PROJECT_DIR$/DiscovryServer/DiscovryServer.iml" filepath="$PROJECT_DIR$/DiscovryServer/DiscovryServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Gateway/Gateway.iml" filepath="$PROJECT_DIR$/Gateway/Gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JEE_school_microservices-main-main.iml" filepath="$PROJECT_DIR$/.idea/JEE_school_microservices-main-main.iml" />

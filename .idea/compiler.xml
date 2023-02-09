@@ -10,6 +10,7 @@
         <module name="course-service" />
         <module name="Absencekafka-service" />
         <module name="DiscovryServer" />
+        <module name="DataAnalytics_service" />
         <module name="absence-service" />
         <module name="Gateway" />
         <module name="student-service" />
@@ -20,6 +21,7 @@
       <module name="absence-service" target="17" />
       <module name="Absencekafka-service" target="17" />
       <module name="course-service" target="17" />
+      <module name="DataAnalytics_service" target="17" />
       <module name="DiscovryServer" target="17" />
       <module name="Gateway" target="17" />
       <module name="professors-service" target="17" />
@@ -29,6 +31,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Absencekafka-service" options="-parameters" />
+      <module name="DataAnalytics_service" options="-parameters" />
       <module name="DiscovryServer" options="-parameters" />
       <module name="Gateway" options="-parameters" />
       <module name="absence-service" options="-parameters" />

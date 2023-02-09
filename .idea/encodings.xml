@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/Absencekafka-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Absencekafka-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DataAnalytics_service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/DiscovryServer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/DiscovryServer/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Gateway/src/main/java" charset="UTF-8" />
