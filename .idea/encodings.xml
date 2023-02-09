@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Absencekafka-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Absencekafka-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DiscovryServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DiscovryServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/absence-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/absence-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/course-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/course-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/professors-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/professors-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/student-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/student-service/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
